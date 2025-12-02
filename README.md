@@ -1,7 +1,7 @@
-# iti0302-2024-frontend
+# Marketplace Frontend
 
 This is the frontend part of the project. To start the whole application
-first read instructions, setup and start the backend part https://gitlab.cs.ttu.ee/datjul/iti0302-2024-backend
+first read instructions, setup and start the [backend part](https://github.com/BI8US/2024-marketplace-backend)
 
 
 ## Technologies Used
